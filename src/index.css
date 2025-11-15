@@ -1025,3 +1025,11 @@ html {
   syntax: "*";
   inherits: false
 }
+
+.button{
+  background-color: #FF5722;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 9999px;
+  font-weight: bold;
+}
